@@ -2,6 +2,8 @@
 
 In this lab, you'll use Remix to create and deploy your own ERC-20 token on the Rinkeby testnet. You'll need a Rinkeby testnet account with some test ETH, and access to the Solidity smart contract for the ERC-20 token.
 
+[Here is the Code Snippet of the smart contract](https://github.com/joinpursuit/pursuit-crypto-lessons/blob/main/fundamentals/labs/erc720.sol)
+
 ## Step 1: Open Remix
 
 First, open the [Remix IDE](https://remix.ethereum.org/) in your browser.
