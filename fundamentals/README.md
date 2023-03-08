@@ -11,7 +11,7 @@
 | Lesson                                                                                                      | Lab                                                                                                          |
 | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | 1. [Introduction to Web3 and Cryptography](./introduction_to_web3_cryptography.md)                   | [link](https://github.com/joinpursuit/Pursuit-Core-Web3-Module-1-Lab-Web3-Cryptography)                     |
-| 2. [The Blockchain and Distributed Ledgers](./blockchain_and_distributed_ledgers.md)                 | [link](https://github.com/joinpursuit/Pursuit-Core-Web3-Module-1-Lab-Blockchain-Distributed-Ledgers)        |
+| 2. [The Blockchain and Distributed Ledgers](./blockchain_and_distributed_ledgers.md)                 | [link](https://github.com/joinpursuit/pursuit-crypto-lessons/blob/main/fundamentals/labs/creating_metamask_wallet.md)        |
 | 3. [Layers of Web3](./layers_of_web3/README.md)                                                             | [link](https://github.com/joinpursuit/Pursuit-Core-Web3-Module-1-Lab-Layers-of-Web3)                        |
 | 4. [Consensus Algorithms](./consensus_algorithms/README.md)                                                 | [link](https://github.com/joinpursuit/Pursuit-Core-Web3-Module-1-Lab-Consensus-Algorithms)                  |
 | 5. [Economics and Crypto History](./economics_crypto_history/README.md)                                     | [link](https://github.com/joinpursuit/Pursuit-Core-Web3-Module-1-Lab-Economics-Crypto-History)              |
