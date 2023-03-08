@@ -26,11 +26,89 @@ To learn more about cryptography, we recommend reading the following book:
 
 - "Cryptography Engineering: Design Principles and Practical Applications" by Niels Ferguson, Bruce Schneier, and Tadayoshi Kohno
 
-## Web3 Diagram
+## Differences between Web3 and Web2
+#### Layes of Web2 
+                                                     +----------------------------------+
+                                                     |         Web 2.0 Technologies       |
+                                                     |       (AJAX, APIs, etc.)           |
+                                                     +---------------------+------------+
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                         +-----------------v-------------+
+                                                         |       Client-Side Logic       |
+                                                         |    (JavaScript, HTML, CSS)    |
+                                                         +---------------------+--------+
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                +---------------------------v------------------------+
+                                                |                    Web Servers                     |
+                                                |     (Apache, Nginx, IIS, etc.)                    |
+                                                +---------------------------+------------------------+
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                                                  +------------------------v-------------------------+
+                                                  |                  Databases                       |
+                                                  |      (MySQL, Oracle, MongoDB, etc.)              |
+                                                  +-------------------------------------------------+
 
-![Web3 Diagram](https://i.imgur.com/4sw9CXP.png)
 
-The diagram above illustrates how Web3 differs from Web2. In Web2, data is stored on centralized servers and controlled by intermediaries such as Facebook, Google, and Amazon. In Web3, data is stored on a decentralized network of computers and controlled by smart contracts that execute code automatically. This enables developers to build dApps that can run on a peer-to-peer network without intermediaries.
+#### Layers of Web3
+                             +------------------------------------------------------------------------+
+                             |                                       Layer 4 - Applications                                     |
+                             |                                                                                          |
+                             |                 DApps built on top of the infrastructure provided by the lower layers.               |
+                             |                                                                                          |
+                             +-------------------------------------------+-------------------------------------+
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                             +-------------------------------------------v-------------------------------------+
+                             |                                        Layer 3 - Developer APIs and Languages                             |
+                             |                                                                                          |
+                             |                Developer tools and languages that make it easier to build DApps.                    |
+                             |                                                                                          |
+                             +-------------------------------------------+-------------------------------------+
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                             +-------------------------------------------v-------------------------------------+
+                             |                                         Layer 2 - Oracles, Computation, etc.                              |
+                             |                                                                                          |
+                             |           Services that allow DApps to access off-chain data and perform complex computations.         |
+                             |                                                                                          |
+                             +-------------------------------------------+-------------------------------------+
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                             +-------------------------------------------v-------------------------------------+
+                             |                              Layer 1 - Zero/low trust interaction protocols                             |
+                             |                                                                                          |
+                             |           Blockchain protocols that enable trustless, peer-to-peer transactions and smart contracts.        |
+                             |                                                                                          |
+                             +-------------------------------------------+-------------------------------------+
+                                                                           |
+                                                                           |
+                                                                           |
+                                                                           |
+                             +-------------------------------------------v-------------------------------------+
+                             |                                     Layer 0 - Peer-to-peer internet overlay protocols             |
+                             |                                                                                          |
+                             |                   Decentralized protocols that provide connectivity and security.                      |
+                             |                                                                                          |
+                             +----------------------------------------------------------------------------------------+
+
+
+
+The diagrams above illustrates how Web3 differs from Web2. In Web2, data is stored on centralized servers and controlled by intermediaries such as Facebook, Google, and Amazon. In Web3, data is stored on a decentralized network of computers and controlled by smart contracts that execute code automatically. This enables developers to build dApps that can run on a peer-to-peer network without intermediaries.
 
 ## Why is Web3 and Cryptography Important?
 
