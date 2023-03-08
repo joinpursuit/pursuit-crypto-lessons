@@ -25,16 +25,3 @@ The blockchain's distributed nature ensures that every participant in the networ
 - Scalability: As more transactions are added to the blockchain, the size of the network can become a bottleneck, leading to slower transaction times.
 - Energy consumption: The process of verifying and validating transactions on a blockchain can be energy-intensive, leading to concerns about the environmental impact.
 
-## ASCII Diagram
-
-Here's an ASCII diagram of a basic blockchain:
-   +-------+         +-------+         +-------+
-   | Block |  --->   | Block |  --->   | Block |
-   +-------+         +-------+         +-------+
-      |                 |                 |
-      v                 v                 v
-   +-------+         +-------+         +-------+
-   |   0   |         |   1   |         |   2   |
-   +-------+         +-------+         +-------+
-    Data 0             Data 1             Data 2
-
