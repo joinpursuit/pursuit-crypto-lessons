@@ -11,7 +11,7 @@ The curriculum is separated into several modules:
 ## External Resources
 
 ### Learning Solidity 
-[Crypto Zombies](https://cryptozombies.io/)
+[Crypto Zombies](https://cryptozombies.io/) | 
 [Solidity Documentation](https://docs.soliditylang.org/en/latest/)
 
 ### Developer Tools to Bookmark/Download
