@@ -11,8 +11,11 @@ The curriculum is separated into several modules:
 ## External Resources
 
 ### Learning Solidity 
+[Crypto Zombies](https://cryptozombies.io/)
+[Solidity Documentation](https://docs.soliditylang.org/en/latest/)
 
-### Developer Tools to Download
-
+### Developer Tools to Bookmark/Download
+[Remix IDE](https://remix.ethereum.org/)
+[Truffle Suite](https://trufflesuite.com/)
 
 ### Podcasts / Twitter Accounts / Books
