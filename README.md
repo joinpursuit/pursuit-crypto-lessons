@@ -4,8 +4,7 @@ The curriculum is separated into several modules:
 
 | Module | Description |
 | --- | --- |
-| Technical / Computer Science | In this module, fellows will learn about the layers of Web 3, consensus algorithms (Proof of Work/Proof of Stake), economics & crypto history, case study series, and software development. |
-| Economics & Crypto History | This module will cover the history and current economic systems, the incentive for Satoshi to create Bitcoin, why "trustless" transactions are potentially better than our current financial system, how money is used as an "instrument of change", and three generations of cryptocurrencies. |
+| Fundamentals | In this module, fellows will learn about the layers of Web 3, consensus algorithms (Proof of Work/Proof of Stake), economics & crypto history, case study series, and software development. |
 | Case Study Series | This module will dive into case studies of various projects, including Olympus DAO, Helium, Uniswap, Polkadot, ENS, Chainlink, Polygon, Decentraland, and Solona. |
 | Software Development | In this module, fellows will learn about languages and frameworks such as Solidity (smart contract language), Web3.js, Ethers.js, Truffle, Ganache, Hardhat, React/Javascript, and JSON RPC. They will also work on various projects, including an NFT Collection Project, IPFS, PINATA, ERC-721, a DApp Project with ERC-20 contract, and an interoperability project. |
 
