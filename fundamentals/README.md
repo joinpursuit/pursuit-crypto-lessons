@@ -19,8 +19,3 @@
 | 7. [Decentralized Apps](./decentralized_apps/README.md)                                                      | [link](https://github.com/joinpursuit/Pursuit-Core-Web3-Module-1-Lab-Decentralized-Apps)                     |
 | 8. [Interoperability and Crosschain Transfers](./interoperability_crosschain_transfers/README.md)           | [link](https://github.com/joinpursuit/Pursuit-Core-Web3-Module-1-Lab-Interoperability-Crosschain-Transfers) |
 
-## Assessments
-
-- [Mid-module Assessment TBD]()
-- [Final Module Assessment TBD]()
-
