@@ -2,9 +2,9 @@
 
 ## Learning Outcomes
 
-- M1.1 Explain the concept of a distributed ledger and understand how blockchains work
-- M1.2 Understand the concept of cryptography and its role in blockchain technology
-- M1.3 Identify the different layers of Web3 and their functions
+-  Explain the concept of a distributed ledger and understand how blockchains work
+- Understand the concept of cryptography and its role in blockchain technology
+- Identify the different layers of Web3 and their functions
 
 ## Lessons, Labs and Projects
 
