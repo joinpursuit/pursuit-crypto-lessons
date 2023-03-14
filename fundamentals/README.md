@@ -17,5 +17,5 @@
 | 5. [Economics and Crypto History](history_of_crypto.md)                                     | NA              |
 | 6. [Smart Contracts and Solidity](./intro_to_smart_contracts_and_solidity.md)                                     | [link](https://github.com/joinpursuit/pursuit-crypto-lessons/blob/main/fundamentals/labs/deploying_your_first_smart_contract.md)              |
 | 7. [Decentralized Apps](./decentralized_apps/README.md)                                                      | [link](https://github.com/joinpursuit/pursuit-crypto-lessons/blob/main/fundamentals/labs/dapps.md)                     |
-| 8. [Interoperability and Crosschain Transfers](./interoperability_crosschain_transfers/README.md)           | [link](https://github.com/joinpursuit/Pursuit-Core-Web3-Module-1-Lab-Interoperability-Crosschain-Transfers) |
+| 8. [Interoperability and Crosschain Transfers](./crosschain.md)           | [link](https://github.com/joinpursuit/Pursuit-Core-Web3-Module-1-Lab-Interoperability-Crosschain-Transfers) |
 
