@@ -15,7 +15,7 @@
 | 3. [Layers of Web3](./layers_of_web3.md)                                                             | NA                    |
 | 4. [Consensus Algorithms](./consensus_algorithms.md)                                                 | NA                  |
 | 5. [Economics and Crypto History](history_of_crypto.md)                                     | NA              |
-| 6. [Smart Contracts and Solidity](./smart_contracts_solidity/README.md)                                     | [link](https://github.com/joinpursuit/pursuit-crypto-lessons/blob/main/fundamentals/labs/deploying_your_first_smart_contract.md)              |
+| 6. [Smart Contracts and Solidity](./intro_to_smart_contracts_and_solidity.md)                                     | [link](https://github.com/joinpursuit/pursuit-crypto-lessons/blob/main/fundamentals/labs/deploying_your_first_smart_contract.md)              |
 | 7. [Decentralized Apps](./decentralized_apps/README.md)                                                      | [link](https://github.com/joinpursuit/Pursuit-Core-Web3-Module-1-Lab-Decentralized-Apps)                     |
 | 8. [Interoperability and Crosschain Transfers](./interoperability_crosschain_transfers/README.md)           | [link](https://github.com/joinpursuit/Pursuit-Core-Web3-Module-1-Lab-Interoperability-Crosschain-Transfers) |
 
