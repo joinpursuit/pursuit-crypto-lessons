@@ -17,8 +17,3 @@ Uniswap is a decentralized exchange (DEX) that allows users to trade Ethereum-ba
 
 ### Olympus DAO
 Olympus DAO is a decentralized autonomous organization (DAO) that operates a treasury of reserve assets, including the OHM token, which is designed to maintain its purchasing power over time. OHM holders can participate in the DAO's governance and earn rewards for providing liquidity to the protocol.
-
-### Terra Luna
-Terra Luna is a blockchain platform that allows for the creation of stablecoins that are pegged to various fiat currencies. These stablecoins can be used for payments, trading, and other financial activities, and can provide a more stable store of value than volatile cryptocurrencies like Bitcoin.
-
-We'll explore how each of these protocols work, their unique features and benefits, and real-world examples of how they are being used in the DeFi ecosystem. By the end of this section, you'll have a solid understanding of how these protocols fit into the broader DeFi landscape and how you can use them to your advantage. So let's dive in and explore the exciting world of DeFi!
