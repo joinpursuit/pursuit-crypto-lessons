@@ -10,7 +10,3 @@ This case study is designed to provide an in-depth understanding of Uniswap, a l
 4. **Integration with the DeFi Ecosystem**: Learn about Uniswap's interactions with other DeFi protocols, platforms, and aggregators, as well as key partnerships and collaborations.
 5. **Challenges and Risks**: An overview of potential challenges and risks associated with Uniswap, including security concerns, high gas fees, and regulatory obstacles.
 6. **Success Stories and Impact**: Discover successful projects and tokens launched through Uniswap and the platform's impact on the DeFi ecosystem.
-
-## Who This Curriculum Is For
-
-This Uniswap case study is suitable for anyone interested in learning about decentralized exchanges, DeFi protocols, and the broader DeFi ecosystem. Whether you are a
