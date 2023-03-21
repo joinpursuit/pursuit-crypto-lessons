@@ -10,7 +10,7 @@ In this module, we'll be exploring the world of non-fungible tokens (NFTs), whic
 ### [2. DeFi](https://github.com/joinpursuit/pursuit-crypto-lessons/tree/main/case_studies/defi)
 In this module, we'll be diving into the world of decentralized finance (DeFi), which is a new financial system built on blockchain technology. We'll explore how DeFi protocols and tools like AAVE, Compound, and Uniswap are being used to lend, borrow, trade, and invest without intermediaries, and how DeFi is disrupting traditional finance.
 
-### 3. Layer 2s
+### [3. Layer 2s](https://github.com/joinpursuit/pursuit-crypto-lessons/tree/main/case_studies/layer_2s)
 In this module, we'll be exploring Layer 2 solutions, which are protocols built on top of Layer 1 blockchains to improve scalability, reduce costs, and increase transaction speed. We'll examine the technology behind Layer 2 solutions like Optimism, Arbitrum, and Polygon, and how they are being used to improve the user experience of decentralized applications (dApps).
 
 ### 4. Layer 1 Blockchains
