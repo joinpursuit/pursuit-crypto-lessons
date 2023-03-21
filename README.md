@@ -6,7 +6,7 @@ The curriculum is separated into several modules:
 | --- | --- |
 | [Fundamentals](https://github.com/joinpursuit/pursuit-crypto-lessons/tree/main/fundamentals) | In this module, fellows will learn about the layers of Web 3, consensus algorithms (Proof of Work/Proof of Stake), the history of crypto(so far), and learn the fundamentals of being a Blockchain Developer |
 | [Use Case Studies](https://github.com/joinpursuit/pursuit-crypto-lessons/tree/main/case_studies) | This module will dive into real world use cases of Blockchain Technology and Cryptocurrency, and fellows will get the chance to interact with these applications themselves |
-| Solidity Basics | In this module, we'll be going over the basics of solidity to get you started as a Web3 developer |
+| [Solidity Basics](https://github.com/joinpursuit/pursuit-crypto-lessons/blob/main/solidity_basics/readme.md) | In this module, we'll be going over the basics of solidity to get you started as a Web3 developer |
 | [Dapp Development](https://github.com/joinpursuit/pursuit-crypto-lessons/tree/main/dapps) | In this module, fellows will learn about languages and frameworks such as Solidity (smart contract language), Web3.js, Ethers.js, Truffle, Ganache, Hardhat, React/Javascript, and JSON RPC. |
 | [Smart Contract Security](https://github.com/joinpursuit/pursuit-crypto-lessons/tree/main/smart_contract_security) | Understanding Smart Contract Exploits & protecting your contracts
 ## External Resources
