@@ -7,7 +7,7 @@ Welcome to the Case Studies section of the Pursuit Crypto curriculum! In this se
 ### 1. NFTs
 In this module, we'll be exploring the world of non-fungible tokens (NFTs), which are unique digital assets that are stored on a blockchain. We'll examine the technology behind NFTs, their use cases in art, gaming, and other industries, and how they are changing the way we think about ownership and value in the digital age.
 
-### 2. DeFi
+### 2. [DeFi](https://github.com/joinpursuit/pursuit-crypto-lessons/tree/main/case_studies/defi)
 In this module, we'll be diving into the world of decentralized finance (DeFi), which is a new financial system built on blockchain technology. We'll explore how DeFi protocols and tools like AAVE, Compound, and Uniswap are being used to lend, borrow, trade, and invest without intermediaries, and how DeFi is disrupting traditional finance.
 
 ### 3. Layer 2s
