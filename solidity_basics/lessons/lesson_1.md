@@ -19,7 +19,7 @@ A smart contract in Solidity typically contains the following components:
 - Modifiers: Conditions that must be met before a function can be executed.
 
 Example of a simple Solidity smart contract:
-
+```solidity
 // Specify the Solidity compiler version
 pragma solidity ^0.8.0;
 
@@ -38,7 +38,7 @@ contract SimpleStorage {
         return data;
     }
 }
-
+```
 
 ### Lab 1: Creating and Deploying a Simple Storage Smart Contract
 
@@ -66,6 +66,7 @@ contract SimpleStorage {
         return data;
     }
 }
+```
 In the "Solidity Compiler" panel, click the "Compile SimpleStorage.sol" button.
 In the "Deploy & Run Transactions" panel, make sure you're connected to the JavaScript VM environment.
 Deploy the SimpleStorage contract by clicking the "Deploy" button.
