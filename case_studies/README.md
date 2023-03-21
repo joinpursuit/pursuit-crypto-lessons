@@ -23,4 +23,4 @@ We hope you enjoy this section of the curriculum and gain a deeper understanding
 
 
 ### Projects to try out
-[Creating your own DeFi Platform]()
+[Creating your own DeFi Platform](https://github.com/joinpursuit/pursuit-crypto-lessons/blob/main/case_studies/labs/creating_a_defi_protocol.md)
