@@ -20,3 +20,7 @@ In this module, we'll be examining some of the most popular Layer 1 blockchains,
 In this module, we'll be exploring the intersection of blockchain and identity, and how blockchain technology is being used to create decentralized identity systems. We'll examine the technology behind decentralized identity solutions like uPort, Sovrin, and Civic, and how they are being used to provide individuals with more control over their personal data and privacy.
 
 We hope you enjoy this section of the curriculum and gain a deeper understanding of the exciting and innovative applications of blockchain and Web3 technology.
+
+
+### Projects to try out
+[Creating your own DeFi Platform]()
