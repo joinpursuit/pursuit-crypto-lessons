@@ -1,6 +1,6 @@
 # Solidity Basics
 | Lesson | Topic | Description | Lab |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | 1 | Introduction to Solidity | What is Solidity, development tools and environment setup, and structure of a smart contract | Lab |
 | 2 | Solidity Data Types and Variables | Basic data types, arrays, structs, enums, and global variables | Lab |
 | 3 | Functions and Control Structures | Function types, function modifiers, and control structures (if, else, loops) | Lab |
