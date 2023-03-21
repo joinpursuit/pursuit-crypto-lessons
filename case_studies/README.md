@@ -16,7 +16,7 @@ In this module, we'll be exploring Layer 2 solutions, which are protocols built 
 ### [4. Layer 1 Blockchains](https://github.com/joinpursuit/pursuit-crypto-lessons/tree/main/case_studies/layer_1)
 In this module, we'll be examining some of the most popular Layer 1 blockchains, including Ethereum, Polkadot, and Solana. We'll explore the unique features and benefits of each blockchain, and how they are being used for a variety of use cases, from DeFi to gaming to supply chain management.
 
-### 5. Identity
+### [5. Identity](https://github.com/joinpursuit/pursuit-crypto-lessons/tree/main/case_studies/identity)
 In this module, we'll be exploring the intersection of blockchain and identity, and how blockchain technology is being used to create decentralized identity systems. We'll examine the technology behind decentralized identity solutions like uPort, Sovrin, and Civic, and how they are being used to provide individuals with more control over their personal data and privacy.
 
 We hope you enjoy this section of the curriculum and gain a deeper understanding of the exciting and innovative applications of blockchain and Web3 technology.
