@@ -69,3 +69,23 @@ Here's a visual representation of how Proof of Stake works:
             |  Majority of Validators Agree on Block     |
             +-------------------------------------------+
 
+## Less Common Consensus Algorithms  
+  
+While PoW and PoS have been the most commonly used consensus algorithms over the lifespan of the blockchain space, they are far from the only examples. Below are some of the others that have varying levels of usage.  
+  
+### Delegated Proof of Stake (DPoS)  
+  
+In a DPoS system, network validators are elected by users of the network with there being a limit on the total number allowed. Consensus is reached between the delegate set to produce blocks and help secure the network, with delegates that correctly validate blocks receiving the sum of transaction fees for that block. 
+
+### Proof of Elapsed Time (PoET)  
+  
+PoET-based blockchain systems assign all nodes in the network an equal chance of block production, with time the node must wait to produce a block determined in a randomized lottery. Once a node’s given time is reached, it can “awake” and submit a new block to the chain for validation.  
+  
+### Proof of Burn (PoB)  
+  
+With each block, validators in a PoB network have the option of burning a portion of their block reward (i.e. verifiably sending tokens to an irrecoverable location). Ability to produce further blocks is given in proportion to prior number of tokens burned in past blocks.  
+  
+### Proof of Authority (PoA)  
+  
+Somewhat similar to DPoS, PoA networks utilize a set of approved validators to reach consensus. Without network users electing them, validators instead must earn their right to take the position in the network through a vetting process. The goal is to ensure that only trustworthy validators are able to commit blocks to the chain. 
+
