@@ -11,6 +11,9 @@ The curriculum is separated into several modules:
 | [Smart Contract Security](https://github.com/joinpursuit/pursuit-crypto-lessons/tree/main/smart_contract_security) | Understanding Smart Contract Exploits & protecting your contracts
 ## External Resources
 
+### Required Supplementary Reading
+[Bitcoin Whitepaper](https://www.bitcoin.com/bitcoin.pdf)
+
 ### Learning Solidity 
 [Crypto Zombies](https://cryptozombies.io/) | 
 [Solidity Documentation](https://docs.soliditylang.org/en/latest/)
