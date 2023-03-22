@@ -12,7 +12,8 @@ The curriculum is separated into several modules:
 ## External Resources
 
 ### Required Supplementary Reading
-[Bitcoin Whitepaper](https://www.bitcoin.com/bitcoin.pdf)
+[Bitcoin Whitepaper](https://www.bitcoin.com/bitcoin.pdf), 2008
+[Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
 
 ### Learning Solidity 
 [Crypto Zombies](https://cryptozombies.io/) | 
