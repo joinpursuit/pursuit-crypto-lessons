@@ -12,6 +12,11 @@ The consensus algorithm ensures that:
 - Double-spending or other malicious activities are prevented
 - All nodes in the network have the same copy of the blockchain
 
+### Byzantine Fault Tolerance  
+A core concept within Bitcoin, consensus systems, and distributed ledgers is Byzantine Fault Tolerance (BFT). As it relates to blockchain, it revolves around how actors within the network do not have complete information on the status of other actors and therefore must set thresholds for how agreements are reached. 
+  
+The goal of such components is to defend against faulty or malicious actors and assumes that *at least* a simple majority of actors are honest and operating correctly. Various consensus methods have different thresholds of what majority is needed. 
+
 ## Types of Consensus Algorithms
 
 There are several types of consensus algorithms used in blockchain technology. Let's take a look at some of the most popular ones:
