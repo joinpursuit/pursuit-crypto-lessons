@@ -1,6 +1,32 @@
 # Other Consensus Topics
 There are many topics that relate to consensus and the core concepts that are used to implement and facilitate it. Below are some of them that one should be aware of.
 
+## Difficulty
+Difficulty is a key parameter in many blockchain networks that use a proof-of-work (PoW) consensus algorithm. The difficulty of the PoW algorithm determines the amount of computational work required to validate transactions and add new blocks to the blockchain. Difficulty is used to regulate the rate at which new blocks are added to the blockchain and ensure that the network reaches consensus on the state of the blockchain.
+
+### How Does Difficulty Work in Blockchains?
+In a PoW blockchain, miners compete to solve complex mathematical problems in order to validate transactions and add new blocks to the blockchain. The difficulty of the PoW algorithm is adjusted periodically by the network in response to changes in the network's hash rate. The goal of this adjustment is to ensure that the network produces a new block roughly every 10 minutes, regardless of changes in the network's hash rate.
+
+The difficulty of the PoW algorithm is determined by the number of leading zeroes required in the hash of a block. This means that the higher the difficulty, the more computational work is required to find a valid block hash. As the network's hash rate increases, the difficulty is increased to maintain a consistent rate of block creation.
+
+### How Does Difficulty Relate to Consensus?
+In a blockchain network, consensus is reached when the majority of nodes in the network agree on the state of the blockchain. Difficulty plays a key role in achieving consensus because it regulates the rate at which new blocks are added to the blockchain. If the difficulty is set too low, blocks will be created too quickly and the blockchain will become congested with transactions. If the difficulty is set too high, blocks will be created too slowly and the network will be inefficient.
+
+The difficulty adjustment mechanism ensures that the network reaches consensus by regulating the rate at which new blocks are added to the blockchain. By adjusting the difficulty based on changes in the network's hash rate, the network can maintain a consistent rate of block creation and prevent congestion or inefficiency.
+
+## 51% Attack
+A 51% attack, also known as a majority attack or 51% consensus attack, is a potential security threat to blockchain networks that use a proof-of-work (PoW) consensus algorithm. In a 51% attack, an attacker gains control of a majority of the computing power (hash rate) in the network, allowing them to manipulate the blockchain's transaction history.
+
+### How Does a 51% Attack Work?
+In a PoW blockchain, miners compete to solve complex mathematical problems in order to validate transactions and add new blocks to the blockchain. The miner who solves the problem first is rewarded with cryptocurrency and the new block is added to the blockchain. However, if an attacker gains control of a majority of the network's computing power, they can essentially control the blockchain.
+
+In a 51% attack, the attacker can start by creating their own blockchain in secret, which is known as a "fork". The attacker can then use their computing power to mine new blocks on this fork faster than the rest of the network can mine blocks on the original blockchain. The attacker can also selectively choose which transactions to include in their blocks, allowing them to double-spend cryptocurrency or prevent certain transactions from being confirmed.
+
+Once the attacker's fork becomes longer than the original blockchain, they can release it publicly, essentially "replacing" the original blockchain. This can lead to a loss of trust in the network and a significant devaluation of the cryptocurrency.
+
+### Preventing 51% Attacks
+Preventing 51% attacks is a major concern for blockchain networks. One solution is to use alternative consensus algorithms, such as proof-of-stake (PoS), which rely on validators rather than miners to validate transactions and create new blocks. Another solution is to implement measures to detect and mitigate 51% attacks, such as checkpoints or increased network difficulty.
+
 ## Finality
 In the context of blockchains, finality refers to the state in which a block and its contents are considered permanent and irreversible within the network, a state that achieved through consensus. In other words, once a block has achieved finality, its contents cannot be modified or deleted. Finality is an important property of blockchains because it ensures the integrity and immutability of the ledger.
 
