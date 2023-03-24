@@ -1,6 +1,20 @@
-# Lesson 3: Interoperability Between Blockchains and Blockchain Transfers
+# Lesson 3: Interoperability and Composability
 
-Welcome to the third lesson of our blockchain curriculum! In this lesson, we will discuss the concept of interoperability between blockchains and explore various methods of transferring assets between different blockchain networks.
+Welcome to the third lesson of our blockchain curriculum! In this lesson, we will discuss the concept of composability of decentralized applications and the interoperability between blockchains and explore various methods of transferring assets between different blockchain applications and networks.
+
+## What is Composability?
+
+Composability refers to the ability of different decentralized applications (dApps) to interact with one another seamlessly. In the traditional software world, applications are often built in silos, and integration with other applications is complicated and challenging. However, in the blockchain ecosystem, dApps are designed to be highly modular and interoperable, allowing them to work together efficiently.
+
+Composability in blockchain dApps is made possible by the use of open standards and protocols. For example, Ethereum's smart contract system allows developers to build dApps that can interact with other smart contracts on the blockchain. These smart contracts can be used to create new financial instruments, governance systems, and other applications that can work seamlessly with other dApps.
+
+One of the significant benefits of composability is that it allows developers to build more complex and innovative applications by combining existing building blocks. For example, DeFi (Decentralized Finance) protocols are highly composable, and different protocols can be combined to create more complex financial instruments. This allows developers to build new applications that were previously impossible or highly complex to create.
+
+Composability also promotes innovation and collaboration within the blockchain ecosystem. Developers can build on top of existing dApps and protocols, creating new products and services that enhance the overall ecosystem's value. This leads to a virtuous cycle of innovation, with each new development inspiring further innovation and development.
+
+However, composability can also create new challenges for developers and users. The complex interactions between different dApps can create new attack vectors and increase the risk of smart contract vulnerabilities. Developers must be mindful of these risks and take steps to ensure that their dApps are secure and resilient to attack.
+
+Overall, composability is a crucial feature of blockchain dApps that enables developers to create innovative applications that can work seamlessly with other protocols and services on the blockchain. As the ecosystem continues to evolve, we can expect composability to play an increasingly important role in the development of new dApps and services.
 
 ## What is Interoperability?
 
