@@ -3,7 +3,7 @@ Note to Adam: Reference Solidity Notes in the issues section to reference for th
 | Lesson | Topic | Description | Lab |
 | --- | --- | --- | --- |
 | 1 | [Introduction to Solidity](https://github.com/joinpursuit/pursuit-crypto-lessons/blob/main/solidity_basics/lessons/lesson_1.md) | What is Solidity, development tools and environment setup, and structure of a smart contract | [Lab](https://github.com/joinpursuit/pursuit-crypto-lessons/blob/main/solidity_basics/lessons/lesson_1_lab.md) |
-| 2 | Solidity Data Types and Variables | Basic data types, arrays, structs, enums, and global variables | Lab |
+| 2 | [Solidity Data Types and Variables](https://github.com/joinpursuit/pursuit-crypto-lessons/blob/main/solidity_basics/lessons/lesson_2.md) | Basic data types, arrays, structs, enums, and global variables | [Lab](https://github.com/joinpursuit/pursuit-crypto-lessons/blob/main/solidity_basics/lessons/lesson_2_lab.md) |
 | 3 | Functions and Control Structures | Function types, function modifiers, and control structures (if, else, loops) | Lab |
 | 4 | Error Handling and Events | Error handling with require, assert, and revert; events and event logging | Lab |
 | 5 | Inheritance and Interfaces | Contract inheritance, interfaces, and abstract contracts | Lab |
