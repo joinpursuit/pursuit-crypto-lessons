@@ -30,3 +30,20 @@ struct Person {
     uint age;
 }
 ```
+
+## Enum
+Enums are used to define a set of named constants. Here's an example:
+```solidity
+enum Color {
+    Red,
+    Green,
+    Blue
+}
+```
+
+## Global Variables 
+Solidity also includes several global variables, including:
+- `msg.sender`: the address of the account that sent the current transaction.
+- `msg.value` : the amount of Ether sent with the current transaction.
+- `block.number` : the current block number.
+- `block.timestamp` : the current block timestamp.
