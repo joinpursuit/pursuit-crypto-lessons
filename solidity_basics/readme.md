@@ -1,5 +1,4 @@
 # Solidity Basics
-Note to Adam: Reference Solidity Notes in the issues section to reference for the lessons/labs to create
 | Lesson | Topic | Description | Lab |
 | --- | --- | --- | --- |
 | 1 | [Introduction to Solidity](https://github.com/joinpursuit/pursuit-crypto-lessons/blob/main/solidity_basics/lessons/lesson_1.md) | What is Solidity, development tools and environment setup, and structure of a smart contract | [Lab](https://github.com/joinpursuit/pursuit-crypto-lessons/blob/main/solidity_basics/lessons/lesson_1_lab.md) |
