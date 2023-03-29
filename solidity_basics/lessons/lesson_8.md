@@ -57,4 +57,13 @@ function logData(uint256 data) public {
     emit LogData(data);
 }
 ```
+### 5. Optimize Storage
+Use appropriate data structures and storage patterns to minimize storage costs. For example, use a mapping instead of an array when you need to store large amounts of data with random access.
 
+```solidity
+mapping(uint256 => uint256) public data;
+
+function addData(uint256 key, uint256 value) public {
+    data[key] = value;
+}
+```
