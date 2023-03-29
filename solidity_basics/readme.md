@@ -6,7 +6,7 @@ Note to Adam: Reference Solidity Notes in the issues section to reference for th
 | 2 | [Solidity Data Types and Variables](https://github.com/joinpursuit/pursuit-crypto-lessons/blob/main/solidity_basics/lessons/lesson_2.md) | Basic data types, arrays, structs, enums, and global variables | [Lab](https://github.com/joinpursuit/pursuit-crypto-lessons/blob/main/solidity_basics/lessons/lesson_2_lab.md) |
 | 3 | [Functions and Control Structures](https://github.com/joinpursuit/pursuit-crypto-lessons/blob/main/solidity_basics/lessons/lesson_3.md) | Function types, function modifiers, and control structures (if, else, loops) | [Lab](https://github.com/joinpursuit/pursuit-crypto-lessons/blob/main/solidity_basics/lessons/lesson_3_lab.md) |
 | 4 | [Error Handling and Events](https://github.com/joinpursuit/pursuit-crypto-lessons/blob/main/solidity_basics/lessons/lesson_4.md) | Error handling with require, assert, and revert; events and event logging | NA |
-| 5 | Inheritance and Interfaces | Contract inheritance, interfaces, and abstract contracts | Lab |
+| 5 | [Inheritance and Interfaces](https://github.com/joinpursuit/pursuit-crypto-lessons/blob/main/solidity_basics/lessons/lesson_5.md) | Contract inheritance, interfaces, and abstract contracts | Lab |
 | 6 | Libraries and Using | Introduction to libraries, the 'using' keyword, and custom libraries | Lab |
 | 7 | Access Control and Multi-signature Wallets | Access control patterns (Ownable, Role-based) and implementing a multi-signature wallet | Lab |
 | 8 | Optimizing Gas Usage | Understanding gas usage and gas optimization techniques | Lab |
