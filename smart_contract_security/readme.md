@@ -30,7 +30,7 @@ Preventing hacks of smart contracts involves implementing best practices for sec
 You can see the most recent hacks on rekt.com, a website that keeps track of all of the major DeFi hacks that have happend.
 
 
-| Lesson | Topic | Description | 
+| Lesson | Topic | Description | Labs |
 | --- | --- | --- | --- |
 | 1 | [Common Smart Contract Vulnerabilities](lessons/lesson_2.md) | Identifying common vulnerabilities like reentrancy, integer overflow, and race conditions | |
 | 2 | [Secure Coding Practices for Smart Contracts](lessons/lesson_3.md) | Implementing secure coding practices like input validation, access control, and error handling | [Lab](lessons/lesson_3_lab.md) |
