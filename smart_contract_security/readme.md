@@ -26,7 +26,7 @@ Preventing hacks of smart contracts involves implementing best practices for sec
 - Implementing a bug bounty program to incentivize researchers to find and report vulnerabilities
 - Keeping the smart contract code up-to-date and making sure it is compatible with the latest versions of the Solidity compiler and other tools
 
-## [Rekt.new](https://rekt.news/)
+## [Rekt.news](https://rekt.news/)
 You can see the most recent hacks on rekt.com, a website that keeps track of all of the major DeFi hacks that have happend.
 
 
