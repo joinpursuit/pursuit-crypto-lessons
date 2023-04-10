@@ -36,6 +36,5 @@ You can see the most recent hacks on rekt.com, a website that keeps track of all
 | 2 | [Secure Coding Practices for Smart Contracts](lessons/lesson_2.md) | Implementing secure coding practices like input validation, access control, and error handling |  |
 | 3 | [Tools for Identifying and Fixing Security Issues](lessons/lesson_3.md) | Using tools like static analysis and fuzzing to identify and fix security issues |  |
 | 4 | [Auditing and Testing Smart Contracts](lessons/lesson_5.md) | The importance of thorough testing, security audits, and penetration testing |  |
-| 5 | [Bug Bounties and Vulnerability Disclosure Programs](lessons/lesson_6.md) | The role of bug bounty programs and creating a vulnerability disclosure policy |  |
-| 6 | [Keeping Smart Contracts Secure](lessons/lesson_7.md) | Upgrading and maintaining smart contracts, monitoring, and incident response |  |
+| 5 | [Keeping Smart Contracts Secure](lessons/lesson_7.md) | Upgrading and maintaining smart contracts, monitoring, and incident response |  |
 
