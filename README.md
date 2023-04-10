@@ -9,6 +9,7 @@ The curriculum is separated into several modules:
 | [Solidity Basics](https://github.com/joinpursuit/pursuit-crypto-lessons/tree/main/solidity_basics) | In this module, we'll be going over the basics of solidity to get you started as a Web3 developer |
 | [Dapp Development](https://github.com/joinpursuit/pursuit-crypto-lessons/tree/main/dapps) | In this module, fellows will learn about languages and frameworks such as Solidity (smart contract language), Web3.js, Ethers.js, Truffle, Ganache, Hardhat, React/Javascript, and JSON RPC. |
 | [Smart Contract Security](https://github.com/joinpursuit/pursuit-crypto-lessons/tree/main/smart_contract_security) | Understanding Smart Contract Exploits & protecting your contracts
+| Navigating the Web3 Ecosystem | Understanding how to navigate the web3 ecosystem as a developer
 ## External Resources
 
 ### Required Supplementary Reading
