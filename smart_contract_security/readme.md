@@ -38,3 +38,5 @@ You can see the most recent hacks on rekt.com, a website that keeps track of all
 | 4 | [Auditing and Testing Smart Contracts](lessons/lesson_4.md) | The importance of thorough testing, security audits, and penetration testing |  |
 | 5 | [Keeping Smart Contracts Secure](lessons/lesson_5.md) | Upgrading and maintaining smart contracts, monitoring, and incident response |  |
 
+After we go through these lessons, we'll be using Ethernaut to test our skills/learnings
+#### https://ethernaut.openzeppelin.com/
