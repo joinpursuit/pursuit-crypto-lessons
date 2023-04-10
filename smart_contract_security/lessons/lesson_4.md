@@ -1,4 +1,4 @@
-### Lesson 5: Auditing and Testing Smart Contracts
+### Lesson 4: Auditing and Testing Smart Contracts
 
 In this lesson, we will cover the importance of auditing and testing your smart contracts. Ensuring that your smart contracts are thoroughly audited and tested can help prevent vulnerabilities and ensure the security of your decentralized applications.
 
