@@ -27,3 +27,15 @@ Preventing hacks of smart contracts involves implementing best practices for sec
 - Keeping the smart contract code up-to-date and making sure it is compatible with the latest versions of the Solidity compiler and other tools
 
 By taking these steps and staying up-to-date with the latest developments in smart contract security, you can help prevent hacks of smart contracts and ensure the security of your decentralized applications.
+
+
+| Lesson | Topic | Description | Lab |
+| --- | --- | --- | --- |
+| 1 | [Introduction to Smart Contract Exploits](lessons/lesson_1.md) | The importance of secure smart contracts and high-profile smart contract hacks | [Lab](lessons/lesson_1_lab.md) |
+| 2 | [Common Smart Contract Vulnerabilities](lessons/lesson_2.md) | Identifying common vulnerabilities like reentrancy, integer overflow, and race conditions | [Lab](lessons/lesson_2_lab.md) |
+| 3 | [Secure Coding Practices for Smart Contracts](lessons/lesson_3.md) | Implementing secure coding practices like input validation, access control, and error handling | [Lab](lessons/lesson_3_lab.md) |
+| 4 | [Tools for Identifying and Fixing Security Issues](lessons/lesson_4.md) | Using tools like static analysis and fuzzing to identify and fix security issues | [Lab](lessons/lesson_4_lab.md) |
+| 5 | [Auditing and Testing Smart Contracts](lessons/lesson_5.md) | The importance of thorough testing, security audits, and penetration testing | [Lab](lessons/lesson_5_lab.md) |
+| 6 | [Bug Bounties and Vulnerability Disclosure Programs](lessons/lesson_6.md) | The role of bug bounty programs and creating a vulnerability disclosure policy | [Lab](lessons/lesson_6_lab.md) |
+| 7 | [Keeping Smart Contracts Secure](lessons/lesson_7.md) | Upgrading and maintaining smart contracts, monitoring, and incident response | [Lab](lessons/lesson_7_lab.md) |
+
