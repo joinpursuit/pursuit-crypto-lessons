@@ -33,9 +33,9 @@ You can see the most recent hacks on rekt.com, a website that keeps track of all
 | Lesson | Topic | Description | Labs |
 | --- | --- | --- | --- |
 | 1 | [Common Smart Contract Vulnerabilities](lessons/lesson_1.md) | Identifying common vulnerabilities like reentrancy, integer overflow, and race conditions | |
-| 2 | [Secure Coding Practices for Smart Contracts](lessons/lesson_2.md) | Implementing secure coding practices like input validation, access control, and error handling | [Lab](lessons/lesson_3_lab.md) |
-| 3 | [Tools for Identifying and Fixing Security Issues](lessons/lesson_3.md) | Using tools like static analysis and fuzzing to identify and fix security issues | [Lab](lessons/lesson_4_lab.md) |
-| 4 | [Auditing and Testing Smart Contracts](lessons/lesson_5.md) | The importance of thorough testing, security audits, and penetration testing | [Lab](lessons/lesson_5_lab.md) |
-| 5 | [Bug Bounties and Vulnerability Disclosure Programs](lessons/lesson_6.md) | The role of bug bounty programs and creating a vulnerability disclosure policy | [Lab](lessons/lesson_6_lab.md) |
-| 6 | [Keeping Smart Contracts Secure](lessons/lesson_7.md) | Upgrading and maintaining smart contracts, monitoring, and incident response | [Lab](lessons/lesson_7_lab.md) |
+| 2 | [Secure Coding Practices for Smart Contracts](lessons/lesson_2.md) | Implementing secure coding practices like input validation, access control, and error handling |  |
+| 3 | [Tools for Identifying and Fixing Security Issues](lessons/lesson_3.md) | Using tools like static analysis and fuzzing to identify and fix security issues |  |
+| 4 | [Auditing and Testing Smart Contracts](lessons/lesson_5.md) | The importance of thorough testing, security audits, and penetration testing |  |
+| 5 | [Bug Bounties and Vulnerability Disclosure Programs](lessons/lesson_6.md) | The role of bug bounty programs and creating a vulnerability disclosure policy |  |
+| 6 | [Keeping Smart Contracts Secure](lessons/lesson_7.md) | Upgrading and maintaining smart contracts, monitoring, and incident response |  |
 
