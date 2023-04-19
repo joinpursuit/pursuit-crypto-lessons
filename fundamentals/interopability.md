@@ -1,4 +1,4 @@
-# Lesson 3: Interoperability and Composability
+# Interoperability and Composability
 
 Welcome to the third lesson of our blockchain curriculum! In this lesson, we will discuss the concept of composability of decentralized applications and the interoperability between blockchains and explore various methods of transferring assets between different blockchain applications and networks.
 
