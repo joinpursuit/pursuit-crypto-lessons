@@ -6,29 +6,42 @@ Web3 refers to the next generation of the internet, where users will have more c
 
 Web3 is built on several layers that work together to create a seamless user experience. Each layer is responsible for a specific aspect of the system, and without them, the network would not be able to function properly.
 
-## Layer 1: Blockchain
+## Layer 0
 
-The first layer of Web3 is the blockchain. This is the foundational layer that makes everything else possible. The blockchain is a distributed ledger that is maintained by a network of nodes. Each node has a copy of the ledger, and all changes to the ledger are verified by the network.
+Layer 0 is the foundation of Web3. It consists of the underlying protocols that make Web3 possible, such as IPFS and libp2p.
 
-The blockchain is an immutable ledger, meaning that once data has been added to the ledger, it cannot be changed. This makes it an ideal tool for storing information that needs to be secure and tamper-proof.
+* **IPFS:** IPFS is a peer-to-peer network that allows for the distributed storage of data.
+* **libp2p:** libp2p is a set of protocols that allow for the communication between nodes on a peer-to-peer network.
 
-## Layer 2: Smart Contracts
+## Layer 1
 
-The second layer of Web3 is smart contracts. Smart contracts are self-executing contracts with the terms of the agreement between buyer and seller being directly written into lines of code. The code and the agreements contained therein exist on the blockchain network, providing a decentralized way to enforce agreements.
+Layer 1 is the core of Web3. It consists of the blockchain protocols that provide the foundation for decentralized applications and services. The most popular Layer 1 blockchain is Ethereum.
 
-Smart contracts make it possible to create decentralized applications (dApps) that run on the blockchain. These dApps can be used for a variety of purposes, including financial transactions, voting, and more.
+* **Ethereum:** Ethereum is a decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of fraud or third party interference.
 
-## Layer 3: Decentralized Applications (dApps)
+## Layer 2
 
-The third layer of Web3 is decentralized applications (dApps). dApps are applications that run on a decentralized network, rather than a centralized server. These applications can be accessed by anyone with an internet connection, and they are not subject to the same restrictions as traditional applications.
+Layer 2 is a set of scaling solutions that improve the performance and scalability of Layer 1 blockchains. These solutions include things like sidechains, payment channels, and state channels.
 
-dApps are built on top of the blockchain and smart contracts, making them secure, transparent, and tamper-proof. They can be used for a variety of purposes, including social media, gaming, finance, and more.
+* **Sidechains:** Sidechains are separate blockchains that are connected to a Layer 1 blockchain.
+* **Payment channels:** Payment channels are a way of sending payments off-chain, which can improve the speed and cost of transactions.
+* **State channels:** State channels are a way of storing data off-chain, which can improve the privacy and security of data.
 
-## Layer 4: Interoperability
+## Layer 3
 
-The fourth layer of Web3 is interoperability. Interoperability is the ability of different systems to work together seamlessly. In the context of Web3, interoperability refers to the ability of different blockchains and dApps to communicate with each other.
+Layer 3 is a set of decentralized protocols that provide additional functionality to Layer 1 and Layer 2 blockchains. These protocols include things like decentralized identity, decentralized finance, and decentralized storage.
 
-Interoperability is important because it allows users to move assets and data between different systems. Without interoperability, different blockchains and dApps would be isolated from each other, and users would not be able to take full advantage of the Web3 ecosystem.
+* **Decentralized identity:** Decentralized identity is a way of storing and managing your identity information on a blockchain.
+* **Decentralized finance:** Decentralized finance is a way of accessing financial services without the need for a centralized intermediary.
+* **Decentralized storage:** Decentralized storage is a way of storing your data on a blockchain.
+
+## Layer 4
+
+Layer 4 is the user-facing layer of Web3. It consists of the decentralized applications that are built on top of Web3. These applications include things like decentralized exchanges, decentralized marketplaces, and decentralized social networks.
+
+* **Decentralized exchanges:** Decentralized exchanges are platforms where you can trade cryptocurrencies without the need for a centralized intermediary.
+* **Decentralized marketplaces:** Decentralized marketplaces are platforms where you can buy and sell goods and services without the need for a centralized intermediary.
+* **Decentralized social networks:** Decentralized social networks are platforms where you can connect with other people and share information without the need for a centralized intermediary.
 
 ## Conclusion
 
