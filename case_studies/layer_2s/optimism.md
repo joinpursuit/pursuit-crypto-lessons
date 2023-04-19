@@ -17,7 +17,7 @@ Key features of Optimism include:
 
 To learn more about Optimism and how to build applications on the Optimistic Ethereum network, visit the official documentation:
 
-- Optimism Documentation: [https://community.optimism.io/docs/](https://community.optimism.io/docs/)
+- Optimism Documentation: [https://community.optimism.io/](https://community.optimism.io/)
 
 ## Activity: Interacting with the Optimism Network
 
@@ -32,12 +32,12 @@ In this activity, students will learn how to interact with the Optimism network 
 
 ### 1. Configure Metamask for Optimism
 
-- Visit the Optimism documentation page on configuring Metamask: [https://community.optimism.io/docs/developers/networks.html](https://community.optimism.io/docs/developers/networks.html)
+- Visit the Optimism documentation page on configuring Metamask: [Tutorial](https://help.optimism.io/hc/en-us/articles/6223777057179-How-do-I-use-Optimism-with-MetaMask-)
 - Follow the instructions to add the Optimism test network (Optimistic Kovan) to your Metamask wallet.
 
 ### 2. Obtain test ETH for the Optimism test network
 
-- Visit the Optimism Faucet: [https://gateway.optimism.io/testnet/faucet](https://gateway.optimism.io/testnet/faucet)
+- Visit the Optimism Faucet: [Faucet](https://community.optimism.io/docs/useful-tools/faucets/#)
 - Connect your Metamask wallet to the faucet and request test ETH for the Optimistic Kovan test network.
 
 ### 3. Write a simple smart contract
