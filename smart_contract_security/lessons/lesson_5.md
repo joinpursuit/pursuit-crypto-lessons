@@ -1,4 +1,4 @@
-### Lesson 5: Keeping Smart Contracts Secure
+### Lesson: Keeping Smart Contracts Secure
 
 In this lesson, we will discuss the importance of upgrading, maintaining, monitoring, and implementing incident response for smart contracts to ensure their long-term security.
 
