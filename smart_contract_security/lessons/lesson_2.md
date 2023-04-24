@@ -1,4 +1,4 @@
-### Lesson 3: Secure Coding Practices
+### Lesson: Secure Coding Practices
 
 In this lesson, we will cover several secure coding practices that can help prevent vulnerabilities and improve the overall security of your smart contracts. By implementing these practices, you can reduce the risk of attacks and ensure the safety of your decentralized applications.
 
