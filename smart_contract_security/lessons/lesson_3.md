@@ -1,4 +1,4 @@
-### Lesson 3: Security Analysis and Testing Tools
+### Lesson: Security Analysis and Testing Tools
 
 In this lesson, we will cover several tools and techniques for analyzing and testing the security of your smart contracts. These tools can help you identify and fix potential vulnerabilities before deploying your contracts to the mainnet.
 
