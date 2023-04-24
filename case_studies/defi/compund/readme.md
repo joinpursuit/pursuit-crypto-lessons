@@ -15,3 +15,4 @@ COMP is the native governance token of the Compound platform. COMP token holders
 #### Lessons
 - [Compound Architecture](https://github.com/joinpursuit/pursuit-crypto-lessons/blob/main/case_studies/defi/compund/lessons/architecture.md)
 - [Compound's Integrations](https://github.com/joinpursuit/pursuit-crypto-lessons/blob/main/case_studies/defi/compund/lessons/integrations.md)
+- [Use Cases](https://github.com/joinpursuit/pursuit-crypto-lessons/blob/main/case_studies/defi/compund/lessons/use_cases.md)
