@@ -1,4 +1,4 @@
-## Lesson 2: Common Smart Contract Vulnerabilities
+## Lesson: Common Smart Contract Vulnerabilities
 
 ### Overview
 
