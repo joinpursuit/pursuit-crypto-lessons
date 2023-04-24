@@ -1,4 +1,4 @@
-# Lab 2: Exploring DApps and Interacting with MetaMask
+# Lab: Exploring DApps and Interacting with MetaMask
 
 In this lab, you will explore various popular DApps and learn how to interact with them using your MetaMask wallet. This hands-on experience will help you understand how DApps work and familiarize you with the process of using a blockchain wallet to interact with a DApp.
 
