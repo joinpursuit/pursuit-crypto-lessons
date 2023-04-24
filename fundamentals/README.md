@@ -17,6 +17,6 @@
 | 5. [Other Consensus Topics](./other_consensus_topics.md)          | NA          |
 | 5. [Economics and Crypto History](history_of_crypto.md)                                     | NA              |
 | 6. [Smart Contracts and Solidity](./intro_to_smart_contracts_and_solidity.md)                                     | [link](https://github.com/joinpursuit/pursuit-crypto-lessons/blob/main/fundamentals/labs/deploying_your_first_smart_contract.md)              |
-| 7. [Decentralized Apps](./decentralized_apps/README.md)                                                      | [link](https://github.com/joinpursuit/pursuit-crypto-lessons/blob/main/fundamentals/labs/dapps.md)                     |
+| 7. [Decentralized Apps](./dapps.md)                                                      | [link](https://github.com/joinpursuit/pursuit-crypto-lessons/blob/main/fundamentals/labs/dapps.md)                     |
 | 8. [Interoperability and Crosschain Transfers](https://github.com/joinpursuit/pursuit-crypto-lessons/blob/main/fundamentals/interopability.md)           | [link](https://github.com/joinpursuit/pursuit-crypto-lessons/blob/main/fundamentals/labs/crosschain.md) |
 
