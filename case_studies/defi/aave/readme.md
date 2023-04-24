@@ -12,6 +12,8 @@ Aave was founded by Stani Kulechov in 2017 under the name ETHLend before rebrand
 
 AAVE is the native governance token of the Aave platform. AAVE token holders can participate in the protocol's governance by proposing and voting on changes, such as adding new assets or adjusting interest rate models. Additionally, users can stake their AAVE tokens to earn rewards and secure the protocol as a safety module.
 
+##### Lessons
+
 - [AAVE's Protocol Architecture](https://github.com/joinpursuit/pursuit-crypto-lessons/blob/main/case_studies/defi/aave/lessons/architecture.md)
 - [Use Cases](https://github.com/joinpursuit/pursuit-crypto-lessons/blob/main/case_studies/defi/aave/lessons/use_cases.md)
 - [Challenges](https://github.com/joinpursuit/pursuit-crypto-lessons/blob/main/case_studies/defi/aave/lessons/challenges.md)
