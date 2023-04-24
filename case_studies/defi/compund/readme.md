@@ -11,3 +11,7 @@ Compound was founded by Robert Leshner and Geoffrey Hayes in 2017. The protocol'
 ### Compound's Native Token: COMP
 
 COMP is the native governance token of the Compound platform. COMP token holders can participate in the protocol's governance by proposing and voting on changes, such as adding new assets, adjusting interest rate models, or modifying platform parameters. Additionally, users can earn COMP tokens by interacting with the protocol, as the tokens are distributed to both lenders and borrowers.
+
+#### Lessons
+- [Compound Architecture](https://github.com/joinpursuit/pursuit-crypto-lessons/blob/main/case_studies/defi/compund/lessons/architecture.md)
+- [Compound's Integrations](https://github.com/joinpursuit/pursuit-crypto-lessons/blob/main/case_studies/defi/compund/lessons/integrations.md)
