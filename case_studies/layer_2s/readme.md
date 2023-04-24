@@ -15,9 +15,9 @@ Layer 2 solutions use different methods to achieve scalability, but they all inv
 
 There are several popular Layer 2 platforms, including:
 
-- Polygon: a Layer 2 scaling solution for Ethereum, formerly known as Matic Network
+- [Polygon](https://github.com/joinpursuit/pursuit-crypto-lessons/tree/main/case_studies/layer_2s/polygon): a Layer 2 scaling solution for Ethereum, formerly known as Matic Network
 - Arbitrum: a Layer 2 scaling solution for Ethereum that uses optimistic rollups
-- Optimism: a Layer 2 scaling solution for Ethereum that uses optimistic rollups
+- [Optimism](https://github.com/joinpursuit/pursuit-crypto-lessons/blob/main/case_studies/layer_2s/optimism.md): a Layer 2 scaling solution for Ethereum that uses optimistic rollups
 - Binance Smart Chain: a separate blockchain network that is interoperable with the main Binance Chain network
 
 ## Use cases for Layer 2 solutions
