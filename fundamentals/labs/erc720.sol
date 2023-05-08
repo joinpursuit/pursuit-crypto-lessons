@@ -16,6 +16,11 @@ contract MyToken {
     // Token allowance for each account to spend on behalf of another account
     mapping(address => mapping(address => uint256)) private _allowances;
 
+    // Event for Transfer to be sent to the front end
+    event Transfer(address sender, address recipient, uint amount);
+    // Event for Approval to be send to the front end
+    event Approval(address owner, address spender, uint amount);
+
     // Token constructor
     constructor(string memory name_, string memory symbol_, uint8 decimals_, uint256 totalSupply_) {
         _name = name_;
