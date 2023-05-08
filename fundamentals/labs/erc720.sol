@@ -18,7 +18,7 @@ contract MyToken {
 
     // Event for Transfer to be sent to the front end
     event Transfer(address sender, address recipient, uint amount);
-    // Event for Approval to be send to the front end
+    // Event for Approval to be sent to the front end
     event Approval(address owner, address spender, uint amount);
 
     // Token constructor
