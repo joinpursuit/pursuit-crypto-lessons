@@ -1,5 +1,5 @@
 ### Lesson 1: Introduction to Solidity
-
+Changing text for testing
 #### What is Solidity?
 Solidity is a statically-typed, contract-oriented programming language designed for writing smart contracts on the Ethereum blockchain. It is influenced by languages like C++, Python, and JavaScript.
 
