@@ -1,6 +1,6 @@
 # Decentralized Finance (DeFi) Explainer
 
-Decentralized finance, or DeFi, is a new financial system that is built on decentralized technologies like blockchain. DeFi aims to provide an open, transparent, and accessible alternative to traditional financial systems, allowing anyone to participate in financial activities like lending, borrowing, trading, and investing, without the need for intermediaries like banks or brokers.
+Testing text of changes, or DeFi, is a new financial system that is built on decentralized technologies like blockchain. DeFi aims to provide an open, transparent, and accessible alternative to traditional financial systems, allowing anyone to participate in financial activities like lending, borrowing, trading, and investing, without the need for intermediaries like banks or brokers.
 
 ## Popular DeFi Protocols
 
